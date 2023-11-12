@@ -10,7 +10,8 @@ All things about XR+AI
 ## [Pika Labs](https://www.pika.art/)
 ## [VR Nerf]()
 ## [Supervision](https://github.com/roboflow/supervision)
-## []
+## [Luma AI](https://lumalabs.ai/)
+## [Genie](https://lumalabs.ai/genie)
 
 # Templates
 ## [Butterlfy-Theatre-VR-Template](https://github.com/az7dev/Butterfly_theatre_vr_template)
